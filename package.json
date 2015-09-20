@@ -1,0 +1,34 @@
+{
+  "name": "cloud-test",
+  "version": "0.0.1",
+  "description": "cloud test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atxemailtest/tcloud.git"
+  },
+  "author": "Ricardo Levano",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/atxemailtest/tcloud/issues"
+  },
+  "homepage": "https://github.com/atxemailtest/tcloud#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.14.0",
+    "compression": "^1.5.2",
+    "connect-flash": "^0.1.1",
+    "crypto": "0.0.3",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-session": "^1.11.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.1.7",
+    "morgan": "^1.6.1",
+    "passport": "^0.3.0",
+    "passport-local": "^1.0.0"
+  }
+}
